@@ -1,18 +1,18 @@
 {
   "name": "sa63-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "เข้าระบบlottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"เข้าระบบlottovip",
-"หวยรัฐบาล",
-"lottovip เครดิตฟรี",
-"หวยใน",
-"lotto432ดีไหม"
-],
+  "version": "0.2.0",
+  "description": "เข้าระบบlottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "เข้าระบบlottovip",
+    "หวยรัฐบาล",
+    "lottovip เครดิตฟรี",
+    "หวยใน",
+    "lotto432ดีไหม"
+  ],
   "repository": "https://github.com/setteebet/sa63-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
